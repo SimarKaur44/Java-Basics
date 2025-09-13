@@ -4,6 +4,6 @@ class constructor{
      System.out.println("Constructor Called");
    }
   public static void main(String[] args){
-    constructor geek=nem constructor();
+    constructor geek=new constructor();
   }
 }
